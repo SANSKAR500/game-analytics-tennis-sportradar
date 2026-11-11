@@ -1,0 +1,34 @@
+competition_id,competition_name,parent_id,type,gender,category_id
+sr:competition:1,ATP Vienna,,tournament,men,sr:category:3
+sr:competition:2,"ATP Vienna, Austria Men Singles",sr:competition:1,singles,men,sr:category:3
+sr:competition:3,"ATP Vienna, Austria Men Doubles",sr:competition:1,doubles,men,sr:category:3
+sr:competition:4,ATP Basel,,tournament,men,sr:category:3
+sr:competition:5,"ATP Basel, Switzerland Men Singles",sr:competition:4,singles,men,sr:category:3
+sr:competition:6,"ATP Basel, Switzerland Men Doubles",sr:competition:4,doubles,men,sr:category:3
+sr:competition:7,ATP Paris Masters,,tournament,men,sr:category:3
+sr:competition:8,ATP Paris Masters Men Singles,sr:competition:7,singles,men,sr:category:3
+sr:competition:9,ATP Paris Masters Men Doubles,sr:competition:7,doubles,men,sr:category:3
+sr:competition:10,WTA Linz,,tournament,women,sr:category:6
+sr:competition:11,"WTA Linz, Austria Women Singles",sr:competition:10,singles,women,sr:category:6
+sr:competition:12,"WTA Linz, Austria Women Doubles",sr:competition:10,doubles,women,sr:category:6
+sr:competition:13,WTA Finals,,tournament,women,sr:category:6
+sr:competition:14,WTA Finals Women Singles,sr:competition:13,singles,women,sr:category:6
+sr:competition:15,WTA Finals Women Doubles,sr:competition:13,doubles,women,sr:category:6
+sr:competition:16,ITF Men Santiago,,tournament,men,sr:category:785
+sr:competition:17,ITF Men Santiago Singles,sr:competition:16,singles,men,sr:category:785
+sr:competition:18,ITF Men Santiago Doubles,sr:competition:16,doubles,men,sr:category:785
+sr:competition:19,ITF Men Lima,,tournament,men,sr:category:785
+sr:competition:20,ITF Men Lima Singles,sr:competition:19,singles,men,sr:category:785
+sr:competition:21,ITF Men Lima Doubles,sr:competition:19,doubles,men,sr:category:785
+sr:competition:22,ITF Women Antalya,,tournament,women,sr:category:213
+sr:competition:23,ITF Women Antalya Singles,sr:competition:22,singles,women,sr:category:213
+sr:competition:24,ITF Women Antalya Doubles,sr:competition:22,doubles,women,sr:category:213
+sr:competition:25,Challenger Lyon,,tournament,men,sr:category:99
+sr:competition:26,Challenger Lyon Singles,sr:competition:25,singles,men,sr:category:99
+sr:competition:27,Challenger Lyon Doubles,sr:competition:25,doubles,men,sr:category:99
+sr:competition:28,WTA 125 Limoges,,tournament,women,sr:category:204
+sr:competition:29,WTA 125 Limoges Singles,sr:competition:28,singles,women,sr:category:204
+sr:competition:30,Australian Open Mixed Doubles,,doubles,mixed,sr:category:1
+sr:competition:31,Wimbledon Mixed Doubles,,doubles,mixed,sr:category:1
+sr:competition:32,Davis Cup World Group I,,tournament,men,sr:category:77
+sr:competition:33,United Cup Mixed Team,,tournament,mixed,sr:category:united-cup

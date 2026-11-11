@@ -1,0 +1,15 @@
+venue_id,venue_name,city_name,country_name,country_code,timezone,complex_id
+sr:venue:1,Court Central,Santiago,Chile,CHL,America/Santiago,sr:complex:1
+sr:venue:2,Court 1,Santiago,Chile,CHL,America/Santiago,sr:complex:1
+sr:venue:3,Court 2,Santiago,Chile,CHL,America/Santiago,sr:complex:1
+sr:venue:4,Center Court,Vienna,Austria,AUT,Europe/Vienna,sr:complex:2
+sr:venue:5,Court 1,Vienna,Austria,AUT,Europe/Vienna,sr:complex:2
+sr:venue:6,Center Court,Basel,Switzerland,CHE,Europe/Zurich,sr:complex:3
+sr:venue:7,Center Court,Paris,France,FRA,Europe/Paris,sr:complex:4
+sr:venue:8,Court Central,Lima,Peru,PER,America/Lima,sr:complex:5
+sr:venue:9,Court 1,Lima,Peru,PER,America/Lima,sr:complex:5
+sr:venue:10,Court A,Antalya,Turkey,TUR,Europe/Istanbul,sr:complex:6
+sr:venue:11,Court B,Antalya,Turkey,TUR,Europe/Istanbul,sr:complex:6
+sr:venue:12,Court Philippe,Lyon,France,FRA,Europe/Paris,sr:complex:7
+sr:venue:13,Pista Principal,Santiago,Chile,CHL,America/Santiago,sr:complex:8
+sr:venue:14,Pista 2,Vina del Mar,Chile,CHL,America/Santiago,sr:complex:8
